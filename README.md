@@ -3,7 +3,7 @@
 This repo describes the meta-analysis frameworks I built at the DSI, that served as our core method for evaluating treatment applications in crop management for Damon's lab, benchmarked against a no-treatment control (NTC, i.e., non-treated control). 
 These methods supported analyses published in phytofrontiers in summer 2025.
 
-- [Corn](https://doi.org/10.1094/PHYTOFR-07-25-0068-R)
+- [Corn](https://apsjournals.apsnet.org/doi/10.1094/PHYTOFR-08-25-0079-R)
 - [Soybean](https://doi.org/10.1094/PHYTOFR-07-25-0068-R)
 - [Alfalfa](https://doi.org/10.1094/PHYTOFR-07-25-0068-R)
 
